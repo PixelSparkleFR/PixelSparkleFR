@@ -3,7 +3,7 @@
 ### Who am I ? 🙋
 My surname is PixelSparkle. I have 19 yo and I'm a computer science student.\
 I live in Toulouse, France. I fricking love where I am.\
-I love cs, music, video-games and homies.\
+I love cs, music, video-games and homies.
 
 ### Which project am I actually working ? 🔨
 I'm working on a Discord bot called Paul for the Association Return.\
