@@ -1,16 +1,15 @@
-### Hi there 👋
+# Welcome to my Github profile ! 👋
 
-<!--
-**PixelSparkleFR/PixelSparkleFR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I ? 🙋
+My surname is PixelSparkle. I have 19 yo and I'm a computer science student. 
+I live in Toulouse, France. I fricking love where I am.
+I love cs, music, video-games and homies. 
 
-Here are some ideas to get you started:
+### Which project am I actually working ? 🔨
+I'm working on a Discord bot called Paul for the Association Return.
+For my personnal purpose, I'm learning web dev, u know, maybe someday I will be better c: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What languages do I know ? 📚
+I know : Java / Python / Git
+I'm learning : HTML / CSS / JS
+What I will learn : C# / PHP / SQL
