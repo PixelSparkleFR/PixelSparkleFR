@@ -10,6 +10,6 @@ I'm working on a Discord bot and infrastucture maintenance for the [Association 
 For my personnal purpose, I'm learning web dev, u know, maybe someday I will be better c:
 
 ### What languages do I know ? 📚
-I know : Java / Python / Git  \
-I'm learning : HTML / CSS / JS  \
+I know : Java / Git  \
+I'm learning : Python / HTML / CSS / JS  \
 What I will learn : C# / PHP / SQL
