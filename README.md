@@ -1,15 +1,25 @@
-<h1 align="center">Hi 👋, I'm Yann ! (Aka PixelSparkle)</h1>
-<h3 align="center">A nerdy Java & Kotlin developer</h3>
+### Hi there 👋, I'm Yann (Aka PixelSparkle
+#### A nerdy Java & Kotlin developer
+![A nerdy Java & Kotlin developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pixelsparklefr&label=Profile%20views&color=0e75b6&style=flat" alt="pixelsparklefr" /> </p>
+I'm a Tech student at ([Openclassrooms] (https://openclassrooms.com/)) and a Self-taught Java & Kotlin developer
 
-- 🔭 I’m currently working on [Paul](https://github.com/DreamseeTelevision/paul-kotlin)
+Skills: JAVA / KOTLIN / MONGODB / SQLITE
 
-- 🌱 I’m currently learning **Java & Kotlin**
+- 🔭 I’m currently working on Paul (a bot for ([Dreamsee](https://dreamsee.tv)) 
+- 🌱 I’m currently learning Kotlin, MongoDB and front-end web langages 
 
-- 👨‍💻 All of my projects are available at [https://github.com/PixelSparkleFR?tab=repositories](https://github.com/PixelSparkleFR?tab=repositories)
 
-- ⚡ Fun fact **I spend to much time on video games**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PixelSparkleFR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yann-caquard-1347b717b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/PixelSparkleFR)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/PixelSparkle)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://pixelsparkle.fr)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PixelSparkleFR&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PixelSparkleFR)  
+
+![GitHub metrics](https://metrics.lecoq.io/PixelSparkleFR)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PixelSparkleFR)  
+
+![Profile views](https://gpvc.arturio.dev/PixelSparkleFR)  
